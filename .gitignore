@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# La base SQLite y los XLSX se generan al correr el ETL
+datos/*.db
+datos/xlsx/
+
+# Los logs no se suben, pero la carpeta sí
+logs/*
+!logs/.gitkeep

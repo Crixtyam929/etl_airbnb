@@ -9,6 +9,8 @@ registro en logs.
 
 El informe con el análisis, las transformaciones y su justificación está en [doc/informe_etl_airbnb.pdf](doc/informe_etl_airbnb.pdf).
 
+Este README lo creamos con ayuda de la IA.
+
 
 ## Integrantes y responsabilidades
 
